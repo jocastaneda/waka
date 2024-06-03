@@ -1,3 +1,4 @@
+name: Build the UF2 file
 run-name: ${{ github.actor }} is building the file
 
 on: [push, pull_request, workflow_dispatch]
